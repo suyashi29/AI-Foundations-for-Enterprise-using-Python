@@ -1,1 +1,1 @@
-# AI-Foundations-for-Enterprise-using-Python/dummy/
+# AI-Foundations-for-Enterprise-using-Python
